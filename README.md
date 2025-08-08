@@ -1,36 +1,15 @@
-# 👋 Olá! Eu sou o Gustavo Mulin
+### olá me chamo Gustavo Mulin 👋
 
-Sou um desenvolvedor iniciante apaixonado por tecnologia e programação. Estou sempre buscando aprender mais e evoluir nas minhas habilidades.
 
-### 💻 Tecnologias que estou aprendendo e utilizando:
-- **Frontend:** HTML, CSS, JavaScript, Vue.js
-- **Backend:** PHP, Laravel
-- **Outros:** Git, GitHub, MySQL
+![GustavoMulin GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoMulin&show_icons=tru&theme=radical)
 
-### 📘 Sobre mim
-- 🚀 Atualmente estudando e praticando desenvolvimento web
-- 🎯 Foco em projetos práticos para consolidar o que aprendo
-- 📚 Sempre em busca de novos conhecimentos
+## Tecnologias que eu uso no meu dia
 
-### 🌱 Repositórios recentes
-Aqui no meu GitHub você vai encontrar projetos simples, estudos e algumas ideias que estou colocando em prática conforme aprendo.
+<div style = "displey:inline_block"><br/>
+  <img align = "center" alt = "HTML5" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align = "center" alt = "CSS" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align = "center" alt = "JavaScript" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align = "center" alt = "Vue-Js" src = "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+</div><br/>
 
----
-
-<div style="display: inline_block"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" height="40" alt="Laravel"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js"/>
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/_gustavoo03_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMulin&hide_progress=)
