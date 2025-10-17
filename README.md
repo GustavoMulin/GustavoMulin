@@ -10,7 +10,7 @@
 
 ### 💻 Tecnologias que estou aprendendo e utilizando:
 - **Frontend:** HTML, CSS, JavaScript, Vue.js, React Native
-- **Backend:** PHP, Laravel
+- **Backend:** PHP, Laravel, Node.js
 - **Outros:** Git, GitHub, MySQL
 
 <div style = "displey:inline_block"><br/>
