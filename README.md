@@ -6,8 +6,6 @@
   
 </div>
 
-![GustavoMulin GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoMulin&show_icons=tru&theme=radical)
-
 ### 💻 Tecnologias que estou aprendendo e utilizando:
 - **Frontend:** HTML, CSS, JavaScript, Vue.js, React Native
 - **Backend:** PHP, Laravel, Node.js
