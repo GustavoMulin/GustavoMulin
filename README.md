@@ -21,7 +21,6 @@
   <img align = "center" alt = "Vue-Js" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMulin&hide_progress=)
 
 ### 📘 Sobre mim
 - 🚀 Atualmente estudando e praticando desenvolvimento web
