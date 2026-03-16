@@ -6,7 +6,7 @@
 </div>
 
 ### 💻 Tecnologias que estou aprendendo e utilizando:
-- **Frontend:** HTML, CSS, JavaScript, Vue.js, React Native
+- **Frontend:** HTML, CSS, JavaScript, Vue.js, React Native, Quasar
 - **Backend:** PHP, Laravel, Node.js
 - **Outros:** Git, GitHub, MySQL
 
