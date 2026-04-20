@@ -1,10 +1,5 @@
 ### Olá me chamo Gustavo Mulin 👋
 
-<div>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-
 ### 💻 Tecnologias que estou aprendendo e utilizando:
 - **Frontend:** HTML, CSS, JavaScript, Vue.js, React Native, Quasar
 - **Backend:** PHP, Laravel, Node.js
